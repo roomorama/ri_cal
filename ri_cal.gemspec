@@ -21,7 +21,7 @@ This is a clean-slate implementation of RFC2445.
 A Google group for discussion of this library has been set up http://groups.google.com/group/rical_gem
     }
   s.email = %q{rick.denatale@gmail.com}
-  s.executables = ["ri_cal"]
+  #s.executables = ["ri_cal"]
   s.extra_rdoc_files = [
     "History.txt",
     "README.txt",
